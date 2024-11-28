@@ -1,5 +1,4 @@
 # Front end code specification
-[toc]
 
 ## I. Programming Protocol
 
