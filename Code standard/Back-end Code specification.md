@@ -1,5 +1,3 @@
-[toc]
-
 # Back-end code specification
 
 
